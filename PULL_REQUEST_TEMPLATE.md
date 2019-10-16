@@ -6,7 +6,7 @@ Thank you so much for opening a pull request! :smiley:
 
 Please provide the following information where possible to help the pull request reviewer merge your PR quicker!
 
-## Relevant Project Issue Numbers :hash:
+## Relevant Project Issue Numbers :hash: 
 
 *Add any related issue numbers from the GitHub project. Append the `#` symbol before issue numbers.*
 
@@ -24,4 +24,4 @@ Please provide the following information where possible to help the pull request
 
 ## Any Screenshots of Your Changes :camera:
  
-*Your screenshots go here! Use Markdown Syntax to embed images.*
+*Your screenshots go here! Use Markdown Syntax to embed images.ddd*
